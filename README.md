@@ -49,6 +49,8 @@ however, with jsoup the code is a little cleaner and more structured.
 
 I used a HashMap in Collector because I wanted a fast way to access data (by url) and not have duplicates at the same time.
 
+All in all this is just a fast paced project ... Theres not much time for optimisation, and the whole thing is brute forced.
+
 
 ///////////////////////////////////////////////////////////////////////////////////
 
