@@ -47,3 +47,4 @@ The correct heirarchy would be something similair to the following:
 One can use a simple HttpConnection to read the page's html content, and use a Matcher to find search results, and javascript libraries,
 however, with jsoup the code is a little cleaner and more structured.
 
+I used a HashMap in Collector because I wanted a fast way to access data (by url) and not have duplicates at the same time.
