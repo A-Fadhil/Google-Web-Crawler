@@ -52,6 +52,6 @@ I used a HashMap in Collector because I wanted a fast way to access data (by url
 
 ///////////////////////////////////////////////////////////////////////////////////
 
-![Screen Shot](/crawler sst.PNG?raw=true "Screen Shot")
+![Screen Shot](https://github.com/A-Fadhil/Google-Web-Crawler/blob/master/crawler%20sst.PNG?raw=true "Screen Shot")
 
 Please look at the results.rtf file to see basic output.
