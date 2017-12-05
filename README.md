@@ -48,3 +48,10 @@ One can use a simple HttpConnection to read the page's html content, and use a M
 however, with jsoup the code is a little cleaner and more structured.
 
 I used a HashMap in Collector because I wanted a fast way to access data (by url) and not have duplicates at the same time.
+
+
+///////////////////////////////////////////////////////////////////////////////////
+
+![Screen Shot](/crawler sst.PNG?raw=true "Screen Shot")
+
+Please look at the results.rtf file to see basic output.
