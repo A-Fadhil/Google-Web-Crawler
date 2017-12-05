@@ -160,7 +160,7 @@ public class Collector implements Runnable
                                     data.get(jsURL).updateUsages(jsURL, url);
                                 } else data.put(jsURL, d);
 
-                                System.out.println(jsURL);
+//                                System.out.println(jsURL);
                             }
                         }
                     }
